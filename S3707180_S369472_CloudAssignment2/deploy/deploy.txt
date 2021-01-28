@@ -1,0 +1,5 @@
+The deploy files are larger than 5MB and are places in google drive. They can be retrieved using the following sharable link:
+https://drive.google.com/drive/folders/1H82NOyrggOiAmhzxhxurJVYi670VxmYn?usp=sharing
+
+cloudassignment2-1.0-SNAPSHOT.jar file is the web application.
+demo-1.0.0.jar	file is the lambda function.
